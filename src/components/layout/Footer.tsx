@@ -24,7 +24,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
             <h3 className="text-xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-purple-200 mb-4">
-              <Link to="/">https://gameportal2.vercel.app/</Link>
+              <Link to="/">Game Portal</Link>
             </h3>
             <p className="text-white/60 text-sm">
               The best collection of games for entertainment.
