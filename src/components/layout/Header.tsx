@@ -21,7 +21,7 @@ export function Header() {
     <header className="w-full fixed top-0 z-50 bg-gradient-to-b from-indigo-950/80 to-transparent backdrop-blur-sm border-b border-white/5">
       <div className="max-w-7xl mx-auto flex items-center justify-between py-4 px-6">
         <h1 className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white to-purple-200">
-          <Link to="/">Unblocked-Games-ATSchool.Github.io</Link>
+          <Link to="/">Game Portal</Link>
         </h1>
         
         <button 
